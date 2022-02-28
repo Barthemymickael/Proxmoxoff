@@ -6,7 +6,7 @@ use App\Controller\AppController;
 class ProxmoxoffController extends AppController
 {
 
-    public function Proxmox()
+    public function index()
     {
 
     }
